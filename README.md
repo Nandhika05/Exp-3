@@ -42,3 +42,5 @@ Create the following diagrams in StarUML:
 
 
 # RESULT:
+
+Thus, the project to develop e-ticketing system was developed using Star UML Software.
